@@ -10,9 +10,6 @@ from discord.ext import commands
 from discord.ui import Button, View
 from discord.utils import get
 print(discord.__version__)
-#richard's ID: 562250979320528897
-#markus chu's ID: 849157420957564968
-#my ID: 877822920578174986
 
 
 #List of commands: help, ping, dm, openchannel, mute, addrole, removerole, unmute, purge, userinfo, serverinfo, tictactoe, battlefield, listen(always active)
